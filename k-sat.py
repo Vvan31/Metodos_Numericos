@@ -1,7 +1,7 @@
 # input: a formula in  -CNF with variables
 # Guess an initial assignment a E {0,1}n,
     # uniformly at random
-    
+
 # Repeat 3n times:
     # If the formula is satisfied by the actual 
     # assignment: stop and accept
@@ -89,7 +89,8 @@ def main():
          n +=1
          print(f"bad_clauses:{bad_clauses}")
          print(f"good_clauses:{good_clauses}")
-         if len(bad_clauses) < 0: # not true
+         if len(bad_clauses) <= 0: # not true
+            print(f"Se llego a una solucion: {new_input}")
             break
          else: 
             new_input = flip_variable(bad_clauses[0], input)
