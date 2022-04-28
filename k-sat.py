@@ -35,14 +35,17 @@ def manage_file(file):
     return n_binary_variables,n_clauses,clauses
 
 # Generate a random bit. 
-def generate_random: 
-    return random.randint(0,1)
+def generate_random(): 
+    return (random.randint(0,1))
 
 # Guess an initial assignment at random. 
 def initial_guess(arr):
+    return 0
 
-
-def main: 
+def main(): 
     n_binary_variables,n_clauses,clauses = manage_file("Instance3SATExample.txt")
-    print(n_binary_variables + " "+ n_clauses, + " clauses: "+clauses)
+    print(n_binary_variables )
+    print( n_clauses) 
+    print(clauses)
     
+main()
