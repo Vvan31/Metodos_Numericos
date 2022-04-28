@@ -29,8 +29,14 @@ def manage_file(file):
             n_binary_variables = x[2]
             n_clauses = x[3]
         # Clauses 
-        if counter > 8: 
-            clauses.append(line)
+        if counter > 8 and counter < 100: 
+            clause_var = line.split()
+            clause = []
+            for n in clause_var:
+                if n != '0':
+                    clause.append(n)
+
+            clauses.append(clause)
     f.close()
     return n_binary_variables,n_clauses,clauses
 
