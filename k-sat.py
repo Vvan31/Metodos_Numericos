@@ -23,22 +23,20 @@ def manage_file(file):
     clauses = []
 
     for line in f:
-        # Comments  starts with c. 
-        counter += 1
-        # Information. p cnf 20  91 
-        if counter == 8: 
-            x = line.split()
-            n_binary_variables = x[2]
-            n_clauses = x[3]
-        # Clauses 
-        if counter > 8 and counter < 100: 
-            clause_var = line.split()
-            clause = []
-            for n in clause_var:
-                if n != '0':
-                    clause.append(int(n))
-
-            clauses.append(clause)
+        x = line.split()
+        if len(x) > 0:
+            if x[0] == "p": #cnf info
+                #print("info")
+                n_binary_variables = x[2]
+                n_clauses = x[3]
+            elif (x[0] != "%") and (x[0] != "0") and (x[0] != "c"):
+                numbers = []
+                for n in x:
+                    print(n)
+                    if (n != "0"):
+                        numbers.append(int(n))
+                clauses.append(numbers)
+    print(f"Clauses: {clauses}")
     f.close()
     return n_binary_variables,n_clauses,clauses
 
@@ -79,8 +77,16 @@ def flip_variable(bad_clause, input):
     new_input[abs(variable_toflip)-1] *= -1 
     return new_input
 
+def create_txt_result(instanceTest, initialInput, badClause, goodClause):
+
+    textoNuevo = open("resulto3Sat.txt", "a")
+    textoNuevo.write("Now the file has more content!")
+    textoNuevo.close()
+    return 0
+
 
 def main(): 
+    create_txt_result()
     n_binary_variables,n_clauses,clauses = manage_file("Instance3SATExample.txt")
     input= generate_input(n_binary_variables)
     bad_clauses, good_clauses = guess(input,clauses)
@@ -95,5 +101,8 @@ def main():
          else: 
             new_input = flip_variable(bad_clauses[0], input)
             bad_clauses,good_clauses = guess(new_input,clauses)
+        
+    
+    
 
 main()
