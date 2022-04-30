@@ -1,1 +1,2138 @@
-Now the file has more content!
+The inital input:  [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, -1, 1, 1]
+
+On the attempt 1 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, -1, 1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 15
+
+
+On the attempt 2 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 16
+
+
+On the attempt 3 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 16
+
+
+On the attempt 4 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 15
+
+
+On the attempt 5 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, -1, 1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 15
+
+
+On the attempt 6 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 9
+
+
+On the attempt 7 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 8 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 9
+
+
+On the attempt 9 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 17
+
+
+On the attempt 10 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 20
+
+
+On the attempt 11 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 12 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 16
+
+
+On the attempt 13 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 7
+
+
+On the attempt 14 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 7
+
+
+On the attempt 15 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 7
+
+
+On the attempt 16 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 17 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 18
+
+
+On the attempt 18 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 18
+
+
+On the attempt 19 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 20 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 18
+
+
+On the attempt 21 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 14
+
+
+On the attempt 22 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 14
+
+
+On the attempt 23 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 18
+
+
+On the attempt 24 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 15
+
+
+On the attempt 25 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 26 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 4
+
+
+On the attempt 27 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 9
+
+
+On the attempt 28 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 13
+
+
+On the attempt 29 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 13
+
+
+On the attempt 30 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 31 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 14
+
+
+On the attempt 32 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 12
+
+
+On the attempt 33 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 12
+
+
+On the attempt 34 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 14
+
+
+On the attempt 35 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 36 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 13
+
+
+On the attempt 37 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 18
+
+
+On the attempt 38 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 18
+
+
+On the attempt 39 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 18
+
+
+On the attempt 40 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 1
+
+
+On the attempt 41 we tried the input: [1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 1
+
+
+On the attempt 42 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 14
+
+
+On the attempt 43 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 9
+
+
+On the attempt 44 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 8
+
+
+On the attempt 45 we tried the input: [-1, -1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 17
+
+
+On the attempt 46 we tried the input: [-1, -1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 9
+
+
+On the attempt 47 we tried the input: [-1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 48 we tried the input: [-1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 5
+
+
+On the attempt 49 we tried the input: [-1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 11
+
+
+On the attempt 50 we tried the input: [-1, -1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, -1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 51 we tried the input: [-1, -1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 1
+
+
+On the attempt 52 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 9
+
+
+On the attempt 53 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 9
+
+
+On the attempt 54 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 9
+
+
+On the attempt 55 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 12
+
+
+On the attempt 56 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 5
+
+
+On the attempt 57 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 17
+
+
+On the attempt 58 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+
+On the attempt 59 we tried the input: [1, -1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+
+On the attempt 60 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+The inital input:  [1, -1, 1, 1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1]
+
+On the attempt 1 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 16
+
+
+On the attempt 2 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 7
+
+
+On the attempt 3 we tried the input: [1, -1, 1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 11
+
+
+On the attempt 4 we tried the input: [1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 11
+
+
+On the attempt 5 we tried the input: [1, -1, 1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 2
+
+
+On the attempt 6 we tried the input: [1, 1, 1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 7 we tried the input: [1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 13
+
+
+On the attempt 8 we tried the input: [1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 8
+
+
+On the attempt 9 we tried the input: [1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 5
+
+
+On the attempt 10 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 19
+
+
+On the attempt 11 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 19
+
+
+On the attempt 12 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 5
+
+
+On the attempt 13 we tried the input: [1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 15
+
+
+On the attempt 14 we tried the input: [1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 5
+
+
+On the attempt 15 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 19
+
+
+On the attempt 16 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, -1, -1, -1, -1, -1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 12
+
+
+On the attempt 17 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 9
+
+
+On the attempt 18 we tried the input: [1, 1, 1, 1, -1, -1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 2
+
+
+On the attempt 19 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 14
+
+
+On the attempt 20 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 14
+
+
+On the attempt 21 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 11
+
+
+On the attempt 22 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 23 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 17
+
+
+On the attempt 24 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 25 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 12
+
+
+On the attempt 26 we tried the input: [1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 3
+
+
+On the attempt 27 we tried the input: [1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 12
+
+
+On the attempt 28 we tried the input: [1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 29 we tried the input: [1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 19
+
+
+On the attempt 30 we tried the input: [1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 1
+
+
+On the attempt 31 we tried the input: [-1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 9
+
+
+On the attempt 32 we tried the input: [-1, -1, -1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 7
+
+
+On the attempt 33 we tried the input: [-1, -1, -1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 9
+
+
+On the attempt 34 we tried the input: [-1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 1
+
+
+On the attempt 35 we tried the input: [1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 36 we tried the input: [1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 37 we tried the input: [1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 12
+
+
+On the attempt 38 we tried the input: [1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 1 unsatisfied and 90 satisfied
+The variable flipped was 15
+
+
+On the attempt 39 we tried the input: [1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1, 1]
+We got 0 unsatisfied and 91 satisfiedThe inital input:  [-1, -1, -1, 1, -1, 1, -1, 1, -1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+The inital input:  [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1]
+
+On the attempt 1 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1]
+We got 14 unsatisfied and 77 satisfied
+The variable flipped was 18
+
+
+On the attempt 2 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1]
+We got 13 unsatisfied and 78 satisfied
+The variable flipped was 17
+
+
+On the attempt 3 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 11
+
+
+On the attempt 4 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 12
+
+
+On the attempt 5 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 11
+
+
+On the attempt 6 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 10
+
+
+On the attempt 7 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 8 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 8
+
+
+On the attempt 9 we tried the input: [1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 8
+
+
+On the attempt 10 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 10
+
+
+On the attempt 11 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 12 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 11
+
+
+On the attempt 13 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 14 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 19
+
+
+On the attempt 15 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 16 we tried the input: [1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 1
+
+
+On the attempt 17 we tried the input: [-1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 7
+
+
+On the attempt 18 we tried the input: [-1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 19 we tried the input: [-1, 1, -1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 4
+
+
+On the attempt 20 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 21 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 13
+
+
+On the attempt 22 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 5
+
+
+On the attempt 23 we tried the input: [-1, 1, -1, 1, 1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 5
+
+
+On the attempt 24 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 19
+
+
+On the attempt 25 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 26 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 8
+
+
+On the attempt 27 we tried the input: [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 8
+
+
+On the attempt 28 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 8
+
+
+On the attempt 29 we tried the input: [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 6
+
+
+On the attempt 30 we tried the input: [-1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 9
+
+
+On the attempt 31 we tried the input: [-1, 1, -1, 1, -1, -1, -1, 1, 1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 32 we tried the input: [-1, 1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 6
+
+
+On the attempt 33 we tried the input: [-1, 1, -1, 1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 8
+
+
+On the attempt 34 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 35 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 13
+
+
+On the attempt 36 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 10
+
+
+On the attempt 37 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 13
+
+
+On the attempt 38 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 39 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 15
+
+
+On the attempt 40 we tried the input: [-1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 7
+
+
+On the attempt 41 we tried the input: [-1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 13
+
+
+On the attempt 42 we tried the input: [-1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, 1, -1, 1, -1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 15
+
+
+On the attempt 43 we tried the input: [-1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 44 we tried the input: [-1, 1, -1, 1, -1, 1, 1, -1, -1, 1, 1, 1, -1, -1, -1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 18
+
+
+On the attempt 45 we tried the input: [-1, 1, -1, 1, -1, 1, 1, -1, -1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 14
+
+
+On the attempt 46 we tried the input: [-1, 1, -1, 1, -1, 1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 8
+
+
+On the attempt 47 we tried the input: [-1, 1, -1, 1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 6
+
+
+On the attempt 48 we tried the input: [-1, 1, -1, 1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 9
+
+
+On the attempt 49 we tried the input: [-1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 20
+
+
+On the attempt 50 we tried the input: [-1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 51 we tried the input: [-1, 1, -1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 20
+
+
+On the attempt 52 we tried the input: [-1, 1, -1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 1
+
+
+On the attempt 53 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 9
+
+
+On the attempt 54 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 15
+
+
+On the attempt 55 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 15
+
+
+On the attempt 56 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 15
+
+
+On the attempt 57 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 58 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 13
+
+
+On the attempt 59 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 60 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+The inital input:  [1, -1, -1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, 1, -1, -1, 1, -1, 1]
+
+On the attempt 1 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, 1, -1, -1, 1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 9
+
+
+On the attempt 2 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 17
+
+
+On the attempt 3 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 17
+
+
+On the attempt 4 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1, -1, 1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 19
+
+
+On the attempt 5 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, -1, 1, 1, 1]
+We got 12 unsatisfied and 79 satisfied
+The variable flipped was 10
+
+
+On the attempt 6 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1, 1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 15
+
+
+On the attempt 7 we tried the input: [1, -1, -1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 3
+
+
+On the attempt 8 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 9 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 10 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 11 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 12 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 13 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 19
+
+
+On the attempt 14 we tried the input: [1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 5
+
+
+On the attempt 15 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 11
+
+
+On the attempt 16 we tried the input: [1, -1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 8
+
+
+On the attempt 17 we tried the input: [1, -1, 1, 1, 1, 1, -1, -1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 10
+
+
+On the attempt 18 we tried the input: [1, -1, 1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 4
+
+
+On the attempt 19 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 4
+
+
+On the attempt 20 we tried the input: [1, -1, 1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 4
+
+
+On the attempt 21 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 18
+
+
+On the attempt 22 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 7
+
+
+On the attempt 23 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 24 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, -1, -1, -1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 13
+
+
+On the attempt 25 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 11
+
+
+On the attempt 26 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 14
+
+
+On the attempt 27 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 11
+
+
+On the attempt 28 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 8
+
+
+On the attempt 29 we tried the input: [1, -1, 1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 14
+
+
+On the attempt 30 we tried the input: [1, -1, 1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+
+On the attempt 31 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 11
+
+
+On the attempt 32 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 14
+
+
+On the attempt 33 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 5
+
+
+On the attempt 34 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 17
+
+
+On the attempt 35 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 14
+
+
+On the attempt 36 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 19
+
+
+On the attempt 37 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 1
+
+
+On the attempt 38 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 1
+
+
+On the attempt 39 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 40 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 19
+
+
+On the attempt 41 we tried the input: [1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 1
+
+
+On the attempt 42 we tried the input: [-1, -1, 1, -1, -1, 1, 1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 7
+
+
+On the attempt 43 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 18
+
+
+On the attempt 44 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 45 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 46 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 47 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 48 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 49 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 12
+
+
+On the attempt 50 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, -1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 51 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 11
+
+
+On the attempt 52 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, -1, -1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 53 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, -1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 54 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1, 1, -1, -1, 1, 1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 13
+
+
+On the attempt 55 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 56 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 18
+
+
+On the attempt 57 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 1
+
+
+On the attempt 58 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 59 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 4
+
+
+On the attempt 60 we tried the input: [1, -1, 1, 1, -1, 1, -1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 13
+
+The inital input:  [1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, 1]
+
+On the attempt 1 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 17
+
+
+On the attempt 2 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 19
+
+
+On the attempt 3 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, 1, 1, 1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 19
+
+
+On the attempt 4 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 15
+
+
+On the attempt 5 we tried the input: [1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 1
+
+
+On the attempt 6 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 14
+
+
+On the attempt 7 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, 1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 11
+
+
+On the attempt 8 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 20
+
+
+On the attempt 9 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, 1, 1, 1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 17
+
+
+On the attempt 10 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 12
+
+
+On the attempt 11 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 12
+
+
+On the attempt 12 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 13 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 15
+
+
+On the attempt 14 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, 1, -1]
+We got 13 unsatisfied and 78 satisfied
+The variable flipped was 15
+
+
+On the attempt 15 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 16
+
+
+On the attempt 16 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 16
+
+
+On the attempt 17 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 15
+
+
+On the attempt 18 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, 1, -1]
+We got 13 unsatisfied and 78 satisfied
+The variable flipped was 19
+
+
+On the attempt 19 we tried the input: [-1, -1, 1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 4
+
+
+On the attempt 20 we tried the input: [-1, -1, 1, 1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 2
+
+
+On the attempt 21 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 9
+
+
+On the attempt 22 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 12
+
+
+On the attempt 23 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 15 unsatisfied and 76 satisfied
+The variable flipped was 12
+
+
+On the attempt 24 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 11 unsatisfied and 80 satisfied
+The variable flipped was 9
+
+
+On the attempt 25 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 15
+
+
+On the attempt 26 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 27 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 17
+
+
+On the attempt 28 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 11
+
+
+On the attempt 29 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 11
+
+
+On the attempt 30 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 11
+
+
+On the attempt 31 we tried the input: [-1, 1, 1, 1, 1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 5
+
+
+On the attempt 32 we tried the input: [-1, 1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 2
+
+
+On the attempt 33 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 10
+
+
+On the attempt 34 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 11
+
+
+On the attempt 35 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 36 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 37 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 10
+
+
+On the attempt 38 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 39 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 10
+
+
+On the attempt 40 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 41 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 10
+
+
+On the attempt 42 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 10
+
+
+On the attempt 43 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 13
+
+
+On the attempt 44 we tried the input: [-1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 7
+
+
+On the attempt 45 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 13
+
+
+On the attempt 46 we tried the input: [-1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 4
+
+
+On the attempt 47 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 48 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 15
+
+
+On the attempt 49 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 15
+
+
+On the attempt 50 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 51 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 19
+
+
+On the attempt 52 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 53 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 54 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 55 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 19
+
+
+On the attempt 56 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 10
+
+
+On the attempt 57 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 16
+
+
+On the attempt 58 we tried the input: [-1, -1, 1, -1, -1, 1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 8
+
+
+On the attempt 59 we tried the input: [-1, -1, 1, -1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 17
+
+
+On the attempt 60 we tried the input: [-1, -1, 1, -1, -1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 12
+
+The inital input:  [-1, -1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1]
+
+On the attempt 1 we tried the input: [-1, -1, 1, 1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1]
+We got 12 unsatisfied and 79 satisfied
+The variable flipped was 10
+
+
+On the attempt 2 we tried the input: [-1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1]
+We got 13 unsatisfied and 78 satisfied
+The variable flipped was 7
+
+
+On the attempt 3 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 10
+
+
+On the attempt 4 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 13
+
+
+On the attempt 5 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 15
+
+
+On the attempt 6 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, 1, -1, -1, -1, -1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 15
+
+
+On the attempt 7 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 5
+
+
+On the attempt 8 we tried the input: [-1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 5
+
+
+On the attempt 9 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 5
+
+
+On the attempt 10 we tried the input: [-1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 11 we tried the input: [-1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 12 we tried the input: [-1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 5
+
+
+On the attempt 13 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 5
+
+
+On the attempt 14 we tried the input: [-1, -1, 1, 1, -1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 5
+
+
+On the attempt 15 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 12
+
+
+On the attempt 16 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 9
+
+
+On the attempt 17 we tried the input: [-1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 1
+
+
+On the attempt 18 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 12
+
+
+On the attempt 19 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 12
+
+
+On the attempt 20 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 21 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, -1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 13
+
+
+On the attempt 22 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, 1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 12
+
+
+On the attempt 23 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 5
+
+
+On the attempt 24 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, -1, -1, -1, 1]
+We got 1 unsatisfied and 90 satisfied
+The variable flipped was 17
+
+
+On the attempt 25 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, -1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 1 unsatisfied and 90 satisfied
+The variable flipped was 15
+
+
+On the attempt 26 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, 1]
+We got 1 unsatisfied and 90 satisfied
+The variable flipped was 11
+
+
+On the attempt 27 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1, 1]
+We got 1 unsatisfied and 90 satisfied
+The variable flipped was 3
+
+
+On the attempt 28 we tried the input: [1, -1, -1, 1, -1, -1, -1, 1, -1, 1, -1, -1, 1, 1, 1, -1, 1, -1, -1, 1]
+We got 0 unsatisfied and 91 satisfiedThe inital input:  [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1]
+
+On the attempt 1 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 4
+
+
+On the attempt 2 we tried the input: [1, -1, 1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 17
+
+
+On the attempt 3 we tried the input: [1, -1, 1, 1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, -1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 4
+
+
+On the attempt 4 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, -1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 5 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 20
+
+
+On the attempt 6 we tried the input: [1, -1, 1, -1, 1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 5
+
+
+On the attempt 7 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 17
+
+
+On the attempt 8 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 19
+
+
+On the attempt 9 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 4
+
+
+On the attempt 10 we tried the input: [1, -1, 1, 1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 4
+
+
+On the attempt 11 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 4
+
+
+On the attempt 12 we tried the input: [1, -1, 1, 1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 4
+
+
+On the attempt 13 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 14 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 15
+
+
+On the attempt 15 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, -1, 1, 1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 16 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, 1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 17 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 18 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, 1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 15
+
+
+On the attempt 19 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 15
+
+
+On the attempt 20 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, 1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 13
+
+
+On the attempt 21 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, 1, 1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 14
+
+
+On the attempt 22 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 19
+
+
+On the attempt 23 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 19
+
+
+On the attempt 24 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 25 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 26 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 15
+
+
+On the attempt 27 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 11
+
+
+On the attempt 28 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 11
+
+
+On the attempt 29 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, -1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 30 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 10
+
+
+On the attempt 31 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+
+On the attempt 32 we tried the input: [1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+
+On the attempt 33 we tried the input: [1, -1, 1, -1, -1, 1, -1, -1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 8
+
+
+On the attempt 34 we tried the input: [1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 6
+
+
+On the attempt 35 we tried the input: [1, -1, 1, -1, -1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 4
+
+
+On the attempt 36 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 37 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 38 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 11
+
+
+On the attempt 39 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 11
+
+
+On the attempt 40 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 11
+
+
+On the attempt 41 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 42 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 43 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 44 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 45 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, -1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 14
+
+
+On the attempt 46 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, 1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 13
+
+
+On the attempt 47 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, 1, -1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 18
+
+
+On the attempt 48 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, -1, 1, -1, -1, 1, 1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 15
+
+
+On the attempt 49 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, -1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 9
+
+
+On the attempt 50 we tried the input: [1, -1, 1, 1, -1, -1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 5
+
+
+On the attempt 51 we tried the input: [1, -1, 1, 1, 1, -1, -1, 1, 1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 8
+
+
+On the attempt 52 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 53 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, 1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 14
+
+
+On the attempt 54 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 14
+
+
+On the attempt 55 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, 1, -1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 19
+
+
+On the attempt 56 we tried the input: [1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, 1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 1
+
+
+On the attempt 57 we tried the input: [-1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 18
+
+
+On the attempt 58 we tried the input: [-1, -1, 1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 10
+
+
+On the attempt 59 we tried the input: [-1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 19
+
+
+On the attempt 60 we tried the input: [-1, -1, 1, 1, 1, -1, -1, -1, 1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 19
+
+The inital input:  [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1]
+
+On the attempt 1 we tried the input: [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 18
+
+
+On the attempt 2 we tried the input: [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 14
+
+
+On the attempt 3 we tried the input: [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, -1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 14
+
+
+On the attempt 4 we tried the input: [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 12
+
+
+On the attempt 5 we tried the input: [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 12
+
+
+On the attempt 6 we tried the input: [-1, -1, -1, 1, -1, -1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 7
+
+
+On the attempt 7 we tried the input: [-1, -1, -1, 1, -1, -1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 6
+
+
+On the attempt 8 we tried the input: [-1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 4
+
+
+On the attempt 9 we tried the input: [-1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 20
+
+
+On the attempt 10 we tried the input: [-1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 20
+
+
+On the attempt 11 we tried the input: [-1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 20
+
+
+On the attempt 12 we tried the input: [-1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 7
+
+
+On the attempt 13 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 12
+
+
+On the attempt 14 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 15 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 16
+
+
+On the attempt 16 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 16
+
+
+On the attempt 17 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 18 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 12
+
+
+On the attempt 19 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 7
+
+
+On the attempt 20 we tried the input: [-1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 7
+
+
+On the attempt 21 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 7
+
+
+On the attempt 22 we tried the input: [-1, -1, -1, -1, -1, 1, -1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 7
+
+
+On the attempt 23 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 12
+
+
+On the attempt 24 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, 1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 9
+
+
+On the attempt 25 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 26 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 15
+
+
+On the attempt 27 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 28 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 10
+
+
+On the attempt 29 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 10
+
+
+On the attempt 30 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 10
+
+
+On the attempt 31 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 10
+
+
+On the attempt 32 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 9 unsatisfied and 82 satisfied
+The variable flipped was 10
+
+
+On the attempt 33 we tried the input: [-1, -1, -1, -1, -1, 1, 1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 8
+
+
+On the attempt 34 we tried the input: [-1, -1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 8 unsatisfied and 83 satisfied
+The variable flipped was 2
+
+
+On the attempt 35 we tried the input: [-1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, 1, 1]
+We got 7 unsatisfied and 84 satisfied
+The variable flipped was 15
+
+
+On the attempt 36 we tried the input: [-1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 4 unsatisfied and 87 satisfied
+The variable flipped was 16
+
+
+On the attempt 37 we tried the input: [-1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 20
+
+
+On the attempt 38 we tried the input: [-1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, -1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 20
+
+
+On the attempt 39 we tried the input: [-1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 1
+
+
+On the attempt 40 we tried the input: [1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 16
+
+
+On the attempt 41 we tried the input: [1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 16
+
+
+On the attempt 42 we tried the input: [1, 1, -1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 3
+
+
+On the attempt 43 we tried the input: [1, 1, 1, -1, -1, 1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 6
+
+
+On the attempt 44 we tried the input: [1, 1, 1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 3
+
+
+On the attempt 45 we tried the input: [1, 1, -1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, -1, -1, 1, 1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 16
+
+
+On the attempt 46 we tried the input: [1, 1, -1, -1, -1, -1, 1, 1, -1, 1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 9
+
+
+On the attempt 47 we tried the input: [1, 1, -1, -1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, -1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 17
+
+
+On the attempt 48 we tried the input: [1, 1, -1, -1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, 1, 1]
+We got 3 unsatisfied and 88 satisfied
+The variable flipped was 4
+
+
+On the attempt 49 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, 1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 19
+
+
+On the attempt 50 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 13
+
+
+On the attempt 51 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 13
+
+
+On the attempt 52 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, -1, 1, -1, 1, 1, 1, -1, 1]
+We got 2 unsatisfied and 89 satisfied
+The variable flipped was 13
+
+
+On the attempt 53 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 12
+
+
+On the attempt 54 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, 1, -1, 1, 1, 1, -1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 12
+
+
+On the attempt 55 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 12
+
+
+On the attempt 56 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, -1, 1, 1, -1, 1, 1, 1, -1, 1]
+We got 10 unsatisfied and 81 satisfied
+The variable flipped was 12
+
+
+On the attempt 57 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, 1, -1, 1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 14
+
+
+On the attempt 58 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, 1, 1, 1, 1, 1, -1, -1, 1, 1, 1, -1, 1]
+We got 5 unsatisfied and 86 satisfied
+The variable flipped was 9
+
+
+On the attempt 59 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, 1, 1, 1, -1, -1, 1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 15
+
+
+On the attempt 60 we tried the input: [1, 1, -1, 1, -1, -1, 1, 1, -1, 1, 1, 1, 1, -1, 1, 1, 1, 1, -1, 1]
+We got 6 unsatisfied and 85 satisfied
+The variable flipped was 1
+

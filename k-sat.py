@@ -12,8 +12,11 @@
     # Pick one of the <=k literals in the clause
     # at random and flip its value
     # in the current assignment
+from cgitb import text
 from operator import contains
 import random
+import matplotlib.pyplot as plt
+
 
 def manage_file(file): 
     f = open(file,'r')
@@ -73,34 +76,45 @@ def guess(input,clauses):
 def flip_variable(bad_clause, input): 
     n_toflip = generate_random(0,2)
     variable_toflip = bad_clause[n_toflip]
+
     new_input = input
     new_input[abs(variable_toflip)-1] *= -1 
-    return new_input
+    return new_input, abs(variable_toflip)
 
-def create_txt_result(instanceTest, initialInput, badClause, goodClause):
+def main():
 
-    textoNuevo = open("resulto3Sat.txt", "a")
-    textoNuevo.write("Now the file has more content!")
-    textoNuevo.close()
-    return 0
+    textoRegreso = open("resulto3Sat.txt", "a")
 
+    numBadClauses = []
+    xPlt = []
 
-def main(): 
-    create_txt_result()
     n_binary_variables,n_clauses,clauses = manage_file("Instance3SATExample.txt")
     input= generate_input(n_binary_variables)
+    textoRegreso.write(f"The inital input:  {input}\n")
+
     bad_clauses, good_clauses = guess(input,clauses)
     n = 0
     while n < 3*int(n_binary_variables):
          n +=1
-         print(f"bad_clauses:{bad_clauses}")
-         print(f"good_clauses:{good_clauses}")
+         xPlt.append(n)
+
+        #  print(f"bad_clauses:{bad_clauses}")
+        #  print(f"good_clauses:{good_clauses}")
+         numBadClauses.append(len(bad_clauses))
+         textoRegreso.write(f"\nOn the attempt {n} we tried the input: {input}\nWe got {len(bad_clauses)} unsatisfied and {len(good_clauses)} satisfied")
          if len(bad_clauses) <= 0: # not true
             print(f"Se llego a una solucion: {new_input}")
             break
          else: 
-            new_input = flip_variable(bad_clauses[0], input)
+            new_input, varFliped = flip_variable(bad_clauses[0], input)
+            textoRegreso.write(f"\nThe variable flipped was {varFliped}\n\n")
             bad_clauses,good_clauses = guess(new_input,clauses)
+
+    plt.plot(xPlt,numBadClauses)
+    plt.xlabel("Attempts")
+    plt.ylabel("Num of Bad Clauses")
+    plt.show()
+    textoRegreso.close()
         
     
     
